@@ -39,6 +39,9 @@ pip install pandas bokeh
 - Puedes modificar el script `grafica.py` para leer otros formatos de archivo como `.csv` o `.json`, ajustando la función de lectura de `pandas` correspondiente.
 - La imagen `bokeh_plot.png` proporciona un ejemplo de la salida gráfica esperada con variables independientes.
 
+![Ejemplo de salida gráfica](bokeh_plot.png)
+
+
 ## Más Información
 
 Para más detalles sobre Bokeh y sus funcionalidades, visita la [documentación oficial de Bokeh](https://docs.bokeh.org/en/latest/).
